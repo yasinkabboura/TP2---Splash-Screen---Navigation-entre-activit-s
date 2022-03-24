@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Concepts TP2</string>
+    <string name="login">login</string>
+    <string name="password">Password :</string>
+    <string name="username">Username :</string>
+    <string name="user_informations">User account information
+: </string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome</string>
+</resources>
